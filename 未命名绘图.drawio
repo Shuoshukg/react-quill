@@ -1,0 +1,20 @@
+<mxfile host="app.diagrams.net" modified="2023-07-11T02:22:47.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="F1hOx_kJtrU24fZ6j6_S" version="21.6.1" type="github">
+  <diagram id="kib_dfXZDNn5-lWgjeRv" name="Page-1">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="" link="{&quot;highlight&quot;: {&quot;tags&quot;: [&quot;{qwe}&quot;]}}" id="Zmp6hf5hWRiejT1HXpLo-1">
+          <mxCell style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="" tag="qwe" id="Zmp6hf5hWRiejT1HXpLo-2">
+          <mxCell style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="220" y="390" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
